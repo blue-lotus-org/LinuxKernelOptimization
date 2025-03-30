@@ -1,3 +1,7 @@
+<div align="right">
+<sub>Public | Free OpenSource</sub>
+</div>
+
 # LinuxKernelOptimization
 Linux kernel optimization - powerd by AI agents
 
